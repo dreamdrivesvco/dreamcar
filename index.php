@@ -4,9 +4,9 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Dreaam Car - Find your Dream Car">
+<meta name="description" content="Dreaam Drive - Find your Dream Car">
 <meta name="author" content="">
-<title>Dream Car</title>
+<title>Dream Drive</title>
 
 <link rel="stylesheet" href="css/liteaccordion.css">
 <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -23,7 +23,7 @@
                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                	    <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand page-scroll" href="">Dream Car</a>
+                <a class="navbar-brand page-scroll" href="">Dream Drive</a>
             </div>
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
